@@ -1,7 +1,7 @@
 # Awesome-Data-Science
 Best Resources and Blogs for Data Science and Machine Learning, across various domains. Updated Frequently. Stay Tuned.
 
-[![HitCount](http://hits.dwyl.com/{rbhatia46}/{Awesome-Data-Science}.svg)](http://hits.dwyl.com/{rbhatia46}/{Awesome-Data-Science})
+[![HitCount](http://hits.dwyl.com/rbhatia46/Awesome-Data-Science.svg)](http://hits.dwyl.com/rbhatia46/Awesome-Data-Science)
 
 
 ## General Data Science
