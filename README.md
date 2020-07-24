@@ -10,7 +10,7 @@ Best Resources and Blogs for Data Science and Machine Learning, across various d
 * [TowardsDataScience](https://towardsdatascience.com/)
 * [KD Nuggets](https://www.kdnuggets.com/)
 * [Machine Learning in Action](https://appliedmachinelearning.blog/)
-
+* [MLWhiz](https://mlwhiz.com/)
 
 ## Quant Research and Algorithmic Trading
 
