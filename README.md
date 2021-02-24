@@ -12,6 +12,7 @@ Best Resources and Blogs for Data Science and Machine Learning, across various d
 * [Machine Learning in Action](https://appliedmachinelearning.blog/)
 * [MLWhiz](https://mlwhiz.com/)
 * [Data Science Central](https://www.datasciencecentral.com/profiles/blog/list)
+* [nbshare - Data Science Blog](https://www.nbshare.io/notebooks/data-science/)
 
 ## Quant Research and Algorithmic Trading
 
